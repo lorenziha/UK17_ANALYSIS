@@ -1,2 +1,2 @@
-# Script to analysis quimeric nature of haploid genomes
+# Script to analyze the quimeric nature of haploid genomes
 
