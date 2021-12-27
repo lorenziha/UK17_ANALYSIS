@@ -11,3 +11,6 @@ STRAIN_ref_2 = 'Chominis1ng'
 Where STRAIN in the strain of interest, STRAIN_ref_1 is reference strain #1 and STRAIN_ref_2 is reference strain #2. The VCF reference strain is assume to be included in the analysis by default. Strain names should match the strain names in the VCF file.
 
 In addition, it is necessary to set the variable "bin_size" to modify the window size (in bp) that will be used to estimate the percentage of SNPs different between the strain of interest and each reference strain. The defaul value is 10000.
+
+
+<img width="1265" alt="image" src="https://user-images.githubusercontent.com/76788039/147512366-228db6be-542b-4654-962a-c5ded8408dcc.png">
